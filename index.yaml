@@ -2,10 +2,10 @@
 # https://github.com/srid/emanote/blob/master/emanote/default/index.yaml
 
 page:
-  siteTitle: Emanote Template
+  siteTitle: Sandeep Dhakal
 
 template:
-  theme: red
+  theme: purple
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
