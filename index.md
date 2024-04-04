@@ -1,7 +1,5 @@
-# Emanote Template
+# Sandeep Dhakal's knowledge base
 
-This is a Git template repository of Markdown notes that are automatically rendered using [Emanote] and hosted on [[GitHub Pages]], while enabling editing in the likes of [Visual Studio Code](https://emanote.srid.ca/start/resources/editors/vscode). For details, see https://github.com/srid/emanote-template.
+Welcome to my knowledge base. I am a computer scientist working in computational social simulation and digital twins.
 
-Any `.md` file (eg: [[GitHub Pages]]) or directory of `.md` files (eg: [[Tutorials]]) you add to the repository will be rendered automatically. For information on all features Emanote supports, see https://emanote.srid.ca/
-
-[Emanote]: https://emanote.srid.ca/
+Here you will find notes I have created on topics including [agent-based modelling](./agent_based_modelling/index.md), digital twins, and general notes about python, data and geospatial data analysis, vim and linux in general.
