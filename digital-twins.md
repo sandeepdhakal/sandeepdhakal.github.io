@@ -2,7 +2,7 @@
 title: Digital Twins
 short-title: Digital Twins
 date: 2022-08-30
-tags: [digital-twins]
+tags: [digital-twin]
 bibliography: ../refs.bib
 ---
 

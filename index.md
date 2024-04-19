@@ -1,4 +1,7 @@
-# Sandeep Dhakal's knowledge base
+---
+title: Sandeep Dhakal's knowledge base
+short-title: Knowledge base
+---
 
 Welcome to my knowledge base. I am a computer scientist working in computational social simulation and digital twins.
 
