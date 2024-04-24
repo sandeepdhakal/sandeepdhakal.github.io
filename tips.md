@@ -12,3 +12,7 @@ tag:#vim
 ```query
 tag:#markdown
 ```
+
+```query
+tag:#python
+```
