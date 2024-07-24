@@ -1,7 +1,7 @@
 ---
 title: Area-wide and integrated pest management
 date: 2022-10-15
-tags: [AW-IPM,IPM]
+tags: [AW-IPM, IPM]
 bibliography: refs.bib
 ---
 
@@ -21,10 +21,10 @@ Different IPM tactics include:
 - economic thresholds,
 - resistant varieties
 
-
 Effective management of pests through AWM requires an understanding of how the entire system functions across different scales, including proper assessment of the spatial distribution and temporal dynamics of the pest and its required resources (e.g., food, shelter) [^vanklinken2019scale].
 
 ## Problems Faced
+
 The large number of social actors and the complex interaction of ecological and social processes makes IPM a difficult task. Pest management is a complex system of ecological processes and social actors including a number of key facets [^magarey2019social]:
 
 - grower decision-making is more strongly influenced by market forces and pesticide marketing.
@@ -36,7 +36,6 @@ The large number of social actors and the complex interaction of ecological and 
 - poor coordination and prioritization of IMP strategies
 
 - lack of a clear methodology to measure the environmental and economic benefits of IPM.
-
 
 [^magarey2019social]: [Magarey, R. D., Chappell, T. M., et al. (2019), Social Ecological System Tools for Improving Crop Pest Management.](https://doi.org/10.1093/JIPM/PMZ004)
 [^vanklinken2019scale]: [Klinken, R. D. ., Murray, J. V., et al. (2019), Scale-appropriate spatial modelling to support area-wide management of a polyphagous fruit fly (Diptera: Tephritidae).](https://doi.org/10.1111/AAB.12548)

@@ -3,6 +3,8 @@
 
 page:
   siteTitle: Sandeep Dhakal
+  bodyHtml: |
+    <snippet var="js.mermaid" />
 
 template:
   theme: purple
@@ -21,10 +23,9 @@ template:
     collapsed: true
 
   # If you are hosting on GitLab Pages, you may want to remove this.
-  urlStrategy: pretty
+  # urlStrategy: pretty
 
 pandoc:
   rewriteClass:
-
-    figure-block: p-2 rounded text-center bg-${theme}-100 flex flex-col justify-center content-center 
+    figure-block: p-2 rounded text-center bg-${theme}-100 flex flex-col justify-center content-center
     aparte: text-xs
